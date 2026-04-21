@@ -1,12 +1,20 @@
 ---
-thumbnail: https://picsum.photos/id/26/1920/1280.webp
+thumbnail: /media/default_dark_compressed.4fd030c7.jpg
 title: Data Archos Identity Platform
 date: 2026-04-20
-description: A modern Identity and Access Management (IAM) platform built with a monorepo architecture using Bun workspaces.
+last_updated: ''
+author: DA team
+author_title: ''
+category: Retail Intelligence
 tags:
   - Artificial Intelligence
   - Retail Intelligence
   - Data Science
+seo_title: ''
+description: A modern Identity and Access Management (IAM) platform built with a monorepo architecture using Bun workspaces. A modern Identity and Access Management (IAM) .
+focus_keyword: ''
+canonical_url: ''
+excerpt: A modern Identity and Access Management (IAM) platform built with a monorepo architecture using Bun workspaces. A modern Identity and Access Management (IAM) platform built with a monorepo architecture using Bun workspaces.
 ---
 
 # Data Archos Identity Platform
@@ -29,7 +37,7 @@ identity-platform/
 - [Bun](https://bun.sh/) >= 1.0.0
 - PostgreSQL database
 
-![](https://picsum.photos/id/6/1920/1280.webp)
+![](/media/default_dark_compressed.4fd030c7.jpg)
 
 ### Installation
 
