@@ -1,5 +1,5 @@
 ---
-thumbnail: /media/pos-data-analytics-smarter-decisions-retailers.png
+thumbnail: /media/pos-data-analytics-smarter-decisions-retailers.jpeg
 title: "POS Data Analytics: Smarter Decisions for Retailers"
 slug: "pos-data-analytics-smarter-decisions-retailers"
 category: "Retail Intelligence"
